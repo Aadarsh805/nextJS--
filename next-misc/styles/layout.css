@@ -1,0 +1,22 @@
+.layout-header{
+    background-color: #264653;
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+}
+
+.layout-footer{
+    background-color: #264653;
+    color: green;
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+}
+
+.content{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
