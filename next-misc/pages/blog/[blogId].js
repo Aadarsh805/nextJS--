@@ -18,6 +18,7 @@ export async function getServerSideProps() {
 
   console.log(user, "dasf");
   console.log(user, "dasf");
+  console.log(user, "dasf");
   return {
     props: {
       title: "Article Title",
